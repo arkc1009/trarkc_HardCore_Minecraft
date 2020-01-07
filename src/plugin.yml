@@ -1,0 +1,11 @@
+name: HardCoreMain
+version: 1.0
+main: com.arkc.hardcore.HardCoreMain
+
+commands:
+  test:
+    description: test.
+  PHP:
+    description: setHP.
+  Toe:
+    description: Raw Clear.

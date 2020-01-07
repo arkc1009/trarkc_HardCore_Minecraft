@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HardCore">
+    <output-path>E:/Bukkit/1.12.2Server/plugins</output-path>
+    <root id="archive" name="HardCore.jar">
+      <element id="module-output" name="HRADCORE" />
+    </root>
+  </artifact>
+</component>
